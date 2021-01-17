@@ -1,1 +1,1 @@
-用于测试add commit log的文件。2222222
+删除原有hello2.txt，重新建立一个名字完全一样的hello2.txt
